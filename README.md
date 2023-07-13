@@ -87,7 +87,7 @@ Once the project is running locally, open your browser and navigate to <http://l
 ## Screenshots
 
 - [Home Image](https://github.com/glaubervilane/LightBnB/blob/master/LightBnB_WebApp/images/homeImage.png)
-- [Home Image](https://github.com/glaubervilane/LightBnB/blob/master/LightBnB_WebApp/images/loggedUserImage.png)
+- [User Logged Image](https://github.com/glaubervilane/LightBnB/blob/master/LightBnB_WebApp/images/loggedUserImage.png)
 
 ## Database Structure
 
